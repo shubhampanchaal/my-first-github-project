@@ -1,6 +1,3 @@
-# my-first-github-project
-My journey learning GitHub, AI and technology
-
 # Welcome to My GitHub
 
 Hi! I'm Shubham Panchal.
