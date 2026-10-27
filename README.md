@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-Hi! I'm Shubham Panchal.
+Hi! I'm Shubham Panchal
 
 ## About Me
 - B.Tech in Mechanical Engineering
